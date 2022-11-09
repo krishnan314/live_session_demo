@@ -84,5 +84,7 @@ The above command will not work unless you are the owner or a contributor to the
 - Finally, you can send a pull request to the source repository.
   - Goto Pull requests -> New pull request
   - Important: Select the repository and branch carefully
+    - Select the base repository as `bscse2001/live_session_demo` and branch as `main`
+    - Select the head repository as your_username/forked_repo_name` and branch as `your_branch`
   - Then create the request
 - It will the source repository once author accepts your change
