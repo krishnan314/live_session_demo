@@ -9,8 +9,11 @@ changes done my tush blablabla
 # Working with git locally
 
 - Setting your identity
-  - For privacy you can set the github's no reply email otherwise everyone can see your email in your commits
-  - You can find the no reply email in Settings > Emails > Primary email address 
+  - For privacy you can set the
+  github's no reply email
+  otherwise everyone can see your email in your commits
+  - You can find the
+  no reply email in Settings > Emails > Primary email address 
   - It ends with @users.noreply.github.com
 ```
 git config --global user.email "youremail"
