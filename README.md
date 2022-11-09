@@ -82,3 +82,7 @@ The above command will not work unless you are the owner or a contributor to the
 
 # Pull back request
 - Finally, you can send a pull request to the source repository.
+  - Goto Pull requests -> New pull request
+  - Important: Select the repository and branch carefully
+  - Then create the request
+- It will the source repository once author accepts your change
