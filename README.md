@@ -1,5 +1,4 @@
 # Forking this repo
-changes done my tush blablabla
 - Fork this repository from github and create a forked repository for your own. 
   - Click the fork button at the top right of this site
   - Select the owner for the forked repository
